@@ -1,0 +1,78 @@
+FINDBACK – NỘI DUNG BẢNG TRELLO
+
+Các cột: Cần làm | Đang làm | Chờ kiểm tra | Hoàn thành
+Các thẻ bên dưới ban đầu đặt ở cột Cần làm.
+Tuần là kế hoạch tương đối, chưa phải hạn nộp chính thức.
+
+01. Chốt phạm vi đề tài
+Mô tả: Ghi rõ người dùng, 6 chức năng chính và phần mở rộng.
+Người phụ trách: [Điền họ tên]
+Thời gian: Tuần 1
+Checklist: Hoàn thành nội dung; Kiểm tra kết quả; Đính kèm minh chứng.
+
+02. Viết yêu cầu và quy trình nghiệp vụ
+Mô tả: Mô tả luồng đăng tin, nhận đồ, từ chối và trao trả.
+Người phụ trách: [Điền họ tên]
+Thời gian: Tuần 1
+Checklist: Hoàn thành nội dung; Kiểm tra kết quả; Đính kèm minh chứng.
+
+03. Thiết kế giao diện
+Mô tả: Phác thảo đăng nhập, danh sách tin, chi tiết tin, tạo tin, yêu cầu và quản trị.
+Người phụ trách: [Điền họ tên]
+Thời gian: Tuần 2
+Checklist: Hoàn thành nội dung; Kiểm tra kết quả; Đính kèm minh chứng.
+
+04. Thiết kế cơ sở dữ liệu
+Mô tả: Lập sơ đồ bảng, khóa chính, khóa ngoại và trạng thái.
+Người phụ trách: [Điền họ tên]
+Thời gian: Tuần 2
+Checklist: Hoàn thành nội dung; Kiểm tra kết quả; Đính kèm minh chứng.
+
+05. Xây dựng tài khoản và phân quyền
+Mô tả: Kiểm tra đăng nhập và quyền sửa tin của chủ sở hữu.
+Người phụ trách: [Điền họ tên]
+Thời gian: Tuần 3
+Checklist: Hoàn thành nội dung; Kiểm tra kết quả; Đính kèm minh chứng.
+
+06. Xây dựng quản lý tin đăng
+Mô tả: Tạo, sửa, đóng tin và thêm ảnh; kiểm tra trường bắt buộc.
+Người phụ trách: [Điền họ tên]
+Thời gian: Tuần 3
+Checklist: Hoàn thành nội dung; Kiểm tra kết quả; Đính kèm minh chứng.
+
+07. Xây dựng tìm kiếm và bộ lọc
+Mô tả: Lọc loại đồ, khu vực, thời gian và trạng thái.
+Người phụ trách: [Điền họ tên]
+Thời gian: Tuần 4
+Checklist: Hoàn thành nội dung; Kiểm tra kết quả; Đính kèm minh chứng.
+
+08. Xây dựng yêu cầu nhận đồ
+Mô tả: Gửi bằng chứng riêng tư; chấp nhận hoặc từ chối yêu cầu.
+Người phụ trách: [Điền họ tên]
+Thời gian: Tuần 4
+Checklist: Hoàn thành nội dung; Kiểm tra kết quả; Đính kèm minh chứng.
+
+09. Xây dựng trao đổi và bàn giao
+Mô tả: Lưu trao đổi, cập nhật trạng thái và lịch sử; chặn nhận đồ đã trao trả.
+Người phụ trách: [Điền họ tên]
+Thời gian: Tuần 4
+Checklist: Hoàn thành nội dung; Kiểm tra kết quả; Đính kèm minh chứng.
+
+10. Xây dựng quản trị
+Mô tả: Quản lý danh mục, báo cáo, ẩn tin và thống kê.
+Người phụ trách: [Điền họ tên]
+Thời gian: Tuần 5
+Checklist: Hoàn thành nội dung; Kiểm tra kết quả; Đính kèm minh chứng.
+
+11. Kiểm thử và sửa lỗi
+Mô tả: Kiểm thử luồng chính, dữ liệu lỗi, phân quyền và quyền riêng tư.
+Người phụ trách: [Điền họ tên]
+Thời gian: Tuần 5
+Checklist: Hoàn thành nội dung; Kiểm tra kết quả; Đính kèm minh chứng.
+
+12. Hoàn thiện báo cáo và trình diễn
+Mô tả: Bổ sung ảnh thật của ứng dụng, kết quả kiểm thử và hướng dẫn chạy.
+Người phụ trách: [Điền họ tên]
+Thời gian: Tuần 6
+Checklist: Hoàn thành nội dung; Kiểm tra kết quả; Đính kèm minh chứng.
+
